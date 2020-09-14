@@ -10,4 +10,5 @@ This project integrated data from several sources into a single schema. This hel
   <li> <b>1 and 2</b> : contains static time table and geographic information of (1) Melbourne Regional and (2) Melbourne Metropolitan trains in <b>General Transit Feed Specification (GTFS)</b> format. </li>
   <li> <b>crimebylocationdatatable-yearending31march2016.xlsx</b> : contains details of crimes in Melbourne categorised by suburbs and type of crime. </li>
   <li> <b>schools.xml</b> : contains information about schools such as primary/secondary, postal address, the education sector it belong to and a few others.</li>
+  <li> <b>councils.txt</b> : contains a list of councils and a list of suburbs within it.</li>
 </ul>
